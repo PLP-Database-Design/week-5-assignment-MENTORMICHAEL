@@ -1,0 +1,17 @@
+# Project Name
+
+TELEMED GLOBAL
+
+
+## Prerequisites
+
+- [Node.js](https://nodejs.org) installed on your machine.
+- A running MySQL/PostgreSQL database (or your preferred DB).
+
+## Setup Instructions
+
+1. **Clone the repository:**
+   ```bash
+   git clone <your-repository-url>
+   cd <project-folder-name>
+   run node server.js
